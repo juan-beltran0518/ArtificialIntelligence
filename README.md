@@ -57,3 +57,7 @@ jupyter notebook examen_parcial_ia.ipynb
 - Gráficos de alta calidad para reportes
 - Configuración optimizada para notebooks
 
+### Referencias 
+- Examen Primer Corte - Septiembre 105 de 2025.pdf
+- 20250915_MGIN20252_Estudiantes.pdf
+- https://chatgpt.com
