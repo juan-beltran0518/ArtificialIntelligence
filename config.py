@@ -28,4 +28,4 @@ sns.set_palette("husl")
 # Configuracion de numpy
 np.random.seed(42)
 
-print("✅ Configuracion basica cargada correctamente")
+print("Configuracion basica cargada correctamente")

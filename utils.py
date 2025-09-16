@@ -73,7 +73,7 @@ def check_missing_values(df, visualize=True):
     print("="*30)
     
     if missing_data.empty:
-        print("✅ No hay valores faltantes")
+        print("No hay valores faltantes")
     else:
         print(missing_data)
         
@@ -142,7 +142,7 @@ def correlation_analysis(df, threshold=0.5):
     numerical_df = df.select_dtypes(include=[np.number])
     
     if numerical_df.empty:
-        print("❌ No hay variables numericas")
+        print("No hay variables numericas")
         return None
     
     print("MATRIZ DE CORRELACION")
@@ -158,4 +158,4 @@ def correlation_analysis(df, threshold=0.5):
     
     return corr_matrix
 
-print("✅ Utilidades basicas cargadas correctamente")
+print("Utilidades basicas cargadas correctamente")
